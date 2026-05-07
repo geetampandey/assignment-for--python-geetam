@@ -5,4 +5,4 @@
 num = 45.67
 result = str(num)
 print(result)
-print(type(result))
+print(type(re
